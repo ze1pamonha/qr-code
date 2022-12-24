@@ -1,4 +1,6 @@
-body{padding: 15%;
+body{
+    font-family: "oufit";
+    padding: 15%;
     margin: 10%;
     text-align: center;
     background: hsl(212, 45%, 89%);
